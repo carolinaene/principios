@@ -1,0 +1,5 @@
+Principio inversion de dependencias.
+Este principio se aplicó al código de temperaturas por que se separan las clases 
+cumplir con la regla de acoplamiento.
+las clases celcius, kelvin y fharenheit se acoplan a la clase tempTest y se realizan 
+los calculos en cada testing.
