@@ -1,0 +1,3 @@
+Principio abierto cerrado
+Se aplicó al código de temperaturas ya que al momento de querer agregar otra temperatura sólo se 
+crea una clase con los metodos de las operaciones a realizar y se agrega en la clase TempTest.
